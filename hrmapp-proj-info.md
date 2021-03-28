@@ -1,7 +1,6 @@
-# Central HRM Mobile Application (Android & IOS)*
+# Central HRM Mobile Application (Android & IOS)
 
 Central Mobile Application (Android, IOS) with combined integration of various internal services like HRMS, Purchase System, EOTS & PMS.
-###### * Under development
 
 ## Built with
 * **C#**
