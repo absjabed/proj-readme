@@ -3,13 +3,13 @@
 Official mobile application of Chittagong City Corporation (CCC App)
 
 ## Built with
-* **Java**
-* **php**
-* **Rest-Api**
+* **Rest API**
 * **Javascript**
+* **PHP**
 * **MySQL**
-* **Firebase Cloud Messaging**
-* **Realtime-DB**
+* **Android Studio**
+* **Push Notification**
+* **Firebase Realtime-DB**
 * **git**
 
 
