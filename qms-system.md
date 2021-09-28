@@ -18,6 +18,8 @@ An in-house innovation for tracking Real-time production & Quality data with an 
 
 - C#
 - .NetCore Web API
+- EF Core 6
+- Repository Pattern
 - SignalR
 - RabbitMQ
 - MSSQL
