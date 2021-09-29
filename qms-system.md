@@ -1,4 +1,4 @@
-# Real-time Quality & Production Tracking System
+# Real-time Production & Quality Management System
 
 An in-house innovation for tracking Real-time production & Quality data with an offline-first scalable real-time mobile application with multiple analytics & metrics dashboards. 
 
