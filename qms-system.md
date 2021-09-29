@@ -6,12 +6,16 @@ An in-house innovation for tracking Real-time production & Quality data with an 
 
 
 
-## Application walk-through (Slight older)
+## Application walk-through
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/Mo2EUtw5AQ8/0.jpg)](https://youtu.be/Mo2EUtw5AQ8 "Everything Is AWESOME")
 
 
 ![App-Video-Link-1](https://youtu.be/Mo2EUtw5AQ8)
+
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/CrQXGrNYSis/0.jpg)](https://youtu.be/CrQXGrNYSis "Everything Is AWESOME")
+
 
 ![App-Video-Link-2](https://youtu.be/CrQXGrNYSis)
 
